@@ -15,4 +15,4 @@ Welcome to my personal data research space! This repository is dedicated to docu
 - **Data Exploration Tools**
 
 ---
-> "The goal is to turn data into information, and information into insight."
+> "Building a habit of turning raw data into structured knowledge through research, analysis, and continuous learning."
